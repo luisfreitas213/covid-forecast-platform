@@ -1,0 +1,6 @@
+Django>=3.0
+numpy
+pandas
+tensorflow
+keras
+scikit-learn
